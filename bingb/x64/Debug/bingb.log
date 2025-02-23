@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(114,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(157,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(158,161): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(158,133): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(275,41): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(276,41): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+  bingb.vcxproj -> C:\Users\amd\Desktop\植物大战僵尸\bingb\x64\Debug\bingb.exe

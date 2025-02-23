@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(105,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(144,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(145,161): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(145,133): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(232,41): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\amd\Desktop\植物大战僵尸\bingb\bingb\源.cpp(233,41): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 69 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  bingb.vcxproj -> C:\Users\amd\Desktop\植物大战僵尸\bingb\x64\Release\bingb.exe
